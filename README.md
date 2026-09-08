@@ -71,5 +71,6 @@ examples/
 
 ## Current Material
 
+- `examples/2026/array-max`: C++ model and RISC-V assembly worked example for finding the maximum array element.
 - `examples/2026/hello-world-assembly`: RISC-V assembly hello world example.
 - `examples/2026/prime-reversible-squares`: starter files for the prime reversible squares example.
